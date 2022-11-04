@@ -20,7 +20,6 @@ function App() {
         color: darkMode ? "white" : "",
       }}
     >
-      <h1>MAHSA</h1>
       <Navbar />
       <Intro />
       <Services />
